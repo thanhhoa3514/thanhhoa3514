@@ -18,7 +18,7 @@
 ### Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nestjs,nodejs,java,php,supabase,postgres,mysql,oracle,mongodb,aws,docker,nginx,cloudflare,bash,postman,jenkins&perline=10" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nestjs,nodejs,java,php,python,c,cpp,cs,supabase,postgres,mysql,oracle,mongodb,aws,docker,nginx,cloudflare,bash,postman,jenkins&perline=12" />
   </a>
 </p>
 
