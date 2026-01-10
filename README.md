@@ -23,13 +23,20 @@
 </p>
 
 ### GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanhhoa3514&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhhoa3514&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="165" />
+  <a href="https://github.com/thanhhoa3514">
+    <img height="180em" src="https://github-readme-stats-jd3txdwlj-thanhhoas-projects.vercel.app/api?username=thanhhoa3514&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="Thanh Hoà's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats-jd3txdwlj-thanhhoas-projects.vercel.app/api/top-langs/?username=thanhhoa3514&layout=compact&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhhoa3514&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=thanhhoa3514&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=888888" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thanhhoa3514&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&area_color=F85D7F" alt="Contribution Graph" />
 </p>
 
 ### Connect with Me
@@ -37,4 +44,10 @@
   <a href="https://github.com/thanhhoa3514">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thanhhoa3514&style=for-the-badge&color=F85D7F&label=Profile+Views" alt="Profile Views"/>
 </p>
