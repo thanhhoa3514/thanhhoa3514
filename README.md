@@ -1,6 +1,6 @@
 <div align="center">
-  <h1 align="center">Hi there, I'm Thanh Hoà</h1>
-  <h3 align="center">Full Stack Developer</h3>
+  <h1 align="center">Hi</h1>
+ 
 </div>
 
 <p align="center">
@@ -8,12 +8,6 @@
 </p>
 
 ---
-
-### About Me
-- 🎯 I aspire to be a **Software Engineer** building impactful and scalable solutions.
-- 🌏 I have **strong English communication skills**, ready for effective global collaboration.
-- 🧠 My core skills include **Problem Solving**, **Creative Thinking**, and **Strategic Decision Making**.
-- ✨ I embrace **"Vibe Coding"**—coding with passion, creativity, and positive energy.
 
 ### Tech Stack
 <p align="center">
