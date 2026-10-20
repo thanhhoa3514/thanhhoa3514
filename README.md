@@ -1,6 +1,5 @@
 <div align="center">
   <h1 align="center">Hi</h1>
- 
 </div>
 
 <p align="center">
@@ -10,15 +9,47 @@
 ---
 
 ### Tech Stack
+
+**Languages & Frameworks**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nestjs,nodejs,java,php,python,c,cpp,cs,supabase,postgres,mysql,oracle,mongodb,aws,docker,nginx,cloudflare,bash,postman,jenkins&perline=12" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nestjs,nodejs,java,php,python,c,cpp,cs&perline=12" />
+  </a>
+</p>
+
+**Databases & Storage**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,oracle,mongodb&perline=12" />
+  </a>
+  <img src="https://cdn.simpleicons.org/minio/C72E49" width="48" height="48" alt="MinIO" />
+</p>
+
+**Messaging & Infrastructure**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kafka,nats,aws,docker,nginx,cloudflare,jenkins&perline=12" />
+  </a>
+  <img src="https://cdn.simpleicons.org/haproxy/106DA9" width="48" height="48" alt="HAProxy" />
+</p>
+
+**Observability (ELK, Prometheus, Grafana)**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=elasticsearch,logstash,kibana,prometheus,grafana&perline=12" />
+  </a>
+</p>
+
+**Tools**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,postman&perline=12" />
   </a>
 </p>
 
 ### Contribution Rate
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thanhhoa3514&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&area_color=F85D7F" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/F85D7F/thanhhoa3514" alt="GitHub Contribution Chart" />
 </p>
 
 ### Connect with Me
