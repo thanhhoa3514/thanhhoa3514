@@ -20,24 +20,28 @@
 **Databases & Storage**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,oracle,mongodb&perline=12" />
+    <img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,mongodb&perline=12" />
   </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
   <img src="https://cdn.simpleicons.org/minio/C72E49" width="48" height="48" alt="MinIO" />
 </p>
 
 **Messaging & Infrastructure**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kafka,nats,aws,docker,nginx,cloudflare,jenkins&perline=12" />
+    <img src="https://skillicons.dev/icons?i=kafka,aws,docker,nginx,cloudflare,jenkins&perline=12" />
   </a>
-  <img src="https://cdn.simpleicons.org/haproxy/106DA9" width="48" height="48" alt="HAProxy" />
+  <img src="https://cdn.simpleicons.org/nats/27AAE1" width="48" height="48" alt="NATS" />
+  <img src="https://img.shields.io/badge/HAProxy-106DA9?style=for-the-badge&logo=haproxy&logoColor=white" alt="HAProxy" />
 </p>
 
 **Observability (ELK, Prometheus, Grafana)**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=elasticsearch,logstash,kibana,prometheus,grafana&perline=12" />
+    <img src="https://skillicons.dev/icons?i=elasticsearch,prometheus,grafana&perline=12" />
   </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/logstash/logstash-original.svg" width="48" height="48" alt="Logstash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" width="48" height="48" alt="Kibana" />
 </p>
 
 **Tools**
