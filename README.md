@@ -29,7 +29,7 @@
 **Messaging & Infrastructure**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kafka,aws,docker,nginx,cloudflare,jenkins&perline=12" />
+    <img src="https://skillicons.dev/icons?i=kafka,aws,docker,nginx,cloudflare,jenkins,terraform,ansible&perline=12" />
   </a>
   <img src="https://cdn.simpleicons.org/nats/27AAE1" width="48" height="48" alt="NATS" />
   <img src="https://img.shields.io/badge/HAProxy-106DA9?style=for-the-badge&logo=haproxy&logoColor=white" alt="HAProxy" />
